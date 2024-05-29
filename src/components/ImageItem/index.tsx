@@ -1,0 +1,1 @@
+export { ImageItemView as default } from './ImageItem.view';
